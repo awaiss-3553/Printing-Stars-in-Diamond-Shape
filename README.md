@@ -1,1 +1,1 @@
-# Printing-Stars-in-Diamond-Shape
+Print Stars in Diamond Shape by using this code.
